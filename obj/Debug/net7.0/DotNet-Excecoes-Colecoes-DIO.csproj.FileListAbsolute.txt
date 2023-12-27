@@ -1,0 +1,14 @@
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\bin\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.exe
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\bin\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.deps.json
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\bin\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.runtimeconfig.json
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\bin\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\bin\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.AssemblyInfoInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.AssemblyInfo.cs
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.csproj.CoreCompileInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\refint\DotNet-Excecoes-Colecoes-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\DotNet-Excecoes-Colecoes-DIO.genruntimeconfig.cache
+C:\Users\resin\Development\DotNet\DotNet-Excecoes-Colecoes-DIO\obj\Debug\net7.0\ref\DotNet-Excecoes-Colecoes-DIO.dll
